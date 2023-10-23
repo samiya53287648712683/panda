@@ -1,0 +1,61 @@
+.container{
+  margin-bottom: 20px;
+}
+.Samiya{
+  background-color: #fceae8;
+  border-radius: 10px;
+  margin-top: 50px;
+}
+.price{
+ color: #ff136f;
+}
+.carousel-item{
+  padding: 20px 40px;
+}
+.button-buy{
+  background-image: linear-gradient(to bottom ,#FF5898 0% ,#ff136f 100%);
+  color:#fff;
+  border: none;
+  border-radius: 8px;
+  padding: 9px 25px;
+  cursor: pointer;
+  margin-top:10px;
+}
+.cat1{
+  background-color: orange;
+  
+}
+.cat2{
+  background-color: aqua;
+}
+.cat3{
+  background-color: blue;
+}
+.cat1, .cat2, .cat3{
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.categories h1{
+color:white;
+}
+.categories img{
+  width:120px;
+}
+.card{
+  border:none;
+  box-shadow: 5px 5px 10px lightgray;
+}
+.card-footer{
+  background-color: white;
+  border-top:none;
+}
+#Subscribe{
+  height: 300px;
+
+}
+#Subscribe h6{
+  color:gray;
+}
+footer{
+  text-align: center;
+}
